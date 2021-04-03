@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoTopApp</string>
+    <string name="content_desc_rs_image">RS image</string>
+    <string name="content_desc_polisi_image">polisi image</string>
+    <string name="content_desc_belanjaa_image">belanjaa image</string>
+    <string name="content_desc_sekolah_image">Sekolah image</string>
+</resources>
